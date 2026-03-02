@@ -1,8 +1,4 @@
-<div align="center">
-
-- sysfetch
-
-</div>
+$$c sysfetch c$$
 
 <div align="center">
 
