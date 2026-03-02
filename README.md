@@ -1,4 +1,4 @@
-$\color{cyan}oxyfetch$
+$$\color{cyan}oxyfetch$$
 
 <div align="center">
 
