@@ -1,4 +1,4 @@
-$$c sysfetch c$$
+$$\color{blue}sysfetch$$
 
 <div align="center">
 
