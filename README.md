@@ -2,7 +2,7 @@ $$\color{cyan}oxyfetch$$
 
 <div align="center">
 
-### simple system info fetch tool written in rust
+### simple system fetch written in rust
 
 </div>
 
